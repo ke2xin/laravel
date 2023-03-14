@@ -1,0 +1,11 @@
+参考地址
+https://blog.csdn.net/weixin_45730243/article/details/122472987
+
+使用composer下载
+composer create-project laravel/laravel --prefer-dist ./laravel
+
+路由参数
+使用路由需要public目录下.htaccess文件设置apache重写路由（是我手写）
+
+RouteServiceProvider 我修改过，被我注释了20行和49行
+
